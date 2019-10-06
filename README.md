@@ -1,3 +1,6 @@
+## EventFinder
+A React application using the EventBrite API that allows the user to search for events based on a keyword. Pulls up a list of events and links to events on the EventBrite website.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
